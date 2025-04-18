@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently student in RIPHAH International University<br>- 3rd Semester BSSE <br>- Islamabad, Pakistan
+- Currently student in RIPHAH International University<br>- 4th Semester BSSE <br>- Islamabad, Pakistan
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codingwithmahmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
