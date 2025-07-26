@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently student in RIPHAH International University<br>- 4th Semester BSSE <br>- Islamabad, Pakistan
+Well! Hey there! My names Mahmood Khan and i am currently doing my bachelors in Software Engineernig at the well known university named RIPHAH International University Islamabad Pakistan. Hope you enjoy my github profile....
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=codingwithmahmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
