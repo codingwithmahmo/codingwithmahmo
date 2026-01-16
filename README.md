@@ -1,12 +1,35 @@
-# 💫 About Me:
-Well! Hey there! My names Mahmood Khan and i am currently doing my bachelors in Software Engineernig at the well known university named RIPHAH International University Islamabad Pakistan. Hope you enjoy my github profile....
+# 👋 Hi, I'm Mahmood Khan  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codingwithmahmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codingwithmahmo&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithmahmo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🎓 **Software Engineering Student @ Riphah International University**  
+💻 Passionate about **Full‑Stack Web Development** & **Problem Solving**  
+🌱 Currently exploring **React, Django, MongoDB, and modern UI/UX design**  
+⚡ Skilled in **HTML, CSS, JavaScript, Python, C++**  
+📚 Love connecting technical concepts with real‑life analogies for better learning  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codingwithmahmo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+- 🔭 I’m working on building visually striking portfolio projects with React.  
+- 🌐 Interested in deploying apps on **Vercel/Netlify** and showcasing live demos.  
+- 🛠 Experienced in troubleshooting ML workflows on **Colab** and **Kaggle**.  
+- 🎨 Enjoy crafting aesthetic branding with gradients, blobs, and modern design tools.  
+- 📖 Always learning — from algorithms to design systems.  
+
+---
+
+## 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://yourportfolio.vercel.app)  
+
+---
+✨ *“Code is like art — every line should tell a story.”*
