@@ -27,7 +27,7 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][www.linkedin.com/in/mahmoodkhan9517]
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://yourportfolio.vercel.app)  
 
