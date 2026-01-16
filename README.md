@@ -27,8 +27,8 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)][www.linkedin.com/in/mahmoodkhan9517]
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmoodkhan9517/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/codingwithmahmo/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel)](https://yourportfolio.vercel.app)  
 
 ---
