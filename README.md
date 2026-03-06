@@ -90,25 +90,6 @@ const mahmood = {
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codingwithmahmo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithmahmo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codingwithmahmo&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codingwithmahmo&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=codingwithmahmo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
