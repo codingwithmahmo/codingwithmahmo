@@ -87,17 +87,6 @@ const mahmood = {
 </div>
 
 ---
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=codingwithmahmo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
----
-
 <div align="center">
 
 ## 📫 Let's Connect
