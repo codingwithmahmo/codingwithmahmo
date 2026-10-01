@@ -48,8 +48,7 @@ const mrX = {
 
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
-| **ExamGPT** 📚 | LangChain, OpenAI, RAG | Intelligent exam department chatbot with PDF ingestion |
-| **Haqdar** ⚖️ | LLMs, RAG, Django | Urdu-language legal awareness system (FYP) |
+| **Exam.AI** 📚 | LangChain, OpenAI, RAG | Intelligent exam department chatbot with PDF ingestion |
 | **Prompt Engineering Hub** 🧠 | GPT-4, Claude, Chain-of-Thought | Advanced LLM optimization techniques |
 | **TensorFlow Projects** 🔬 | CNN, RNN, Transformers | Production ML models on Kaggle & Colab |
 
@@ -59,7 +58,6 @@ const mrX = {
 
 | Project | Stack | Status |
 |---------|-------|--------|
-| **RetroReels.exe** 🎬 | React, Next.js, Node.js | Live on Vercel |
 | **Dev Portfolio** 💼 | Next.js, TailwindCSS, Framer Motion | Live - Glassmorphism Design |
 
 ---
