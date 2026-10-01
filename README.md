@@ -37,9 +37,7 @@ const mrX = {
   },
   
   currentlyBuilding: [
-    "🤖 ExamGPT - RAG Chatbot",
-    "📜 Haqdar - Urdu Legal RAG System (FYP)",
-    "🎬 RetroReels - AI Content Creation"
+    "🤖 Exam.AI - Smart Examination Department Support System"
   ]
 };
 ```
